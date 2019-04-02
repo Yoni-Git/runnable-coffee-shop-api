@@ -9,10 +9,12 @@
                       ^ 
                       ^ 
                       ^ 
- coffee-shop-api is up ```
+ coffee-shop-api is up 
+ ```
 ### Log
 		```console
-					 vi run.log ```
+					 vi run.log 
+		```
 ### Swagger
 	- to be released
 
