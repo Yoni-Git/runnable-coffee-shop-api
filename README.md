@@ -7,6 +7,6 @@
 ### Log
 	 vi run.log 
 
-### Swagger
-	- to be released
+### Swagger/Contract
+	- http://localhost:10000/coffee-shop-api/swagger-ui.html
 
